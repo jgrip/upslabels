@@ -1,3 +1,5 @@
+## Migrated to codeberg <https://codeberg.org/jgrip/upslabels>
+
 # upslabels
 Small local service to print UPS thermal labels on linux
 
